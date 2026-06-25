@@ -1,4 +1,5 @@
-# console_shopping_checkout 便利店购物结算系统
+# console_shopping_checkout
+# 便利店购物结算系统
 Python 控制台入门练手项目，综合字典、循环菜单、异常捕获、格式化输出、数量统计等基础知识点，适合新手巩固Python基础语法。
 
 ## 项目功能
